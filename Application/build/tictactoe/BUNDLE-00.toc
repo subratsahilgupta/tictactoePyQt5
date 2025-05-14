@@ -1,0 +1,3 @@
+([('tictactoe',
+   '/Users/tsage/Desktop/pyQt/smallProjects/Tic Tac Toe/dist/tictactoe',
+   'EXECUTABLE')],)
