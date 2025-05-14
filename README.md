@@ -5,20 +5,6 @@ A fully interactive **Tic Tac Toe** (X-O) game developed using **Python** and **
 
 ---
 
-## 📌 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [UI Details](#ui-details)
-- [Game Logic](#game-logic)
-- [Code Overview](#code-overview)
-- [Future Improvements](#future-improvements)
----
-
 ## 🧠 Overview
 
 This project demonstrates how to integrate PyQt5's UI capabilities with Python's logical control to create a classic board game. The interface includes:
